@@ -16,11 +16,11 @@ body {
 }
 
 #word {
-    margin-top: 4rem;
+    margin-top: 6rem;
     /* Prøv selv: ændr font-size (fx til 4rem eller 2rem), og se hvordan teksten skalerer */
-    font-size: 3rem;
+    font-size: 2rem;
     /* Prøv selv: ændr color til en anden farve (fx "crimson" eller "#333"), og se resultatet */
-    color: darkcyan;
+    color: rgb(90, 0, 139);
     cursor: pointer; /* Viser en hånd-cursor, så det er tydeligt, at teksten kan klikkes */
 }
 
